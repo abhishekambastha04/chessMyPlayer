@@ -2,13 +2,12 @@
 
 **A Ren'Py Visual Novel**
 
-**About the Game**
-<be>
+**About the Game**  
 Chess Chronicles is an immersive visual novel that blends the strategic complexity of chess with the emotional journey of a young woman chasing her dreams. You follow Sana, a determined and passionate chess player, as she overcomes personal struggles, societal biases, and formidable opponents to make her mark in the chess world. Will she rise to greatness or stumble under the weight of her challenges? The choice is yours.
 
 This story-driven game features branching paths, player choices, and strategic chess-based challenges that shape the outcome of Sana's journey.
 
-**Features**
+**Features**  
 Interactive Narrative: Your choices determine Sana’s story, leading to different endings.
 Chess Strategy Mechanics: Answer challenging chess theory questions to influence key matches.
 Branching Dialogues: Use Sana’s "powers" to make critical decisions.
