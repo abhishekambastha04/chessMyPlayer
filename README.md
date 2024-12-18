@@ -1,4 +1,4 @@
-**Chess Chronicles**__
+# **Chess Chronicles**
 
 **A Ren'Py Visual Novel**
 
