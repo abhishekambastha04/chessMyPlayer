@@ -10,7 +10,7 @@ This story-driven game features branching paths, player choices, and strategic c
 ### **Features**  
 **Interactive Narrative:** Your choices determine Sana’s story, leading to different endings.  
 **Chess Strategy Mechanics:** Answer challenging chess theory questions to influence key matches.  
-**Branching Dialogues:** Use Sana’s "powers" to make critical decisions.
+**Branching Dialogues:** Use Sana’s "powers" to make critical decisions.  
 **Character-Driven Drama:** Explore Sana's relationships with her family, her friend Carter, and the chess community.  
 **Multiple Endings:** Determine Sana's legacy based on your decisions.  
 
