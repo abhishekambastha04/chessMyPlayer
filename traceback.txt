@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 19, in script
+    image momSprite = im.Scale("sana")
+  File "game/script.rpy", line 19, in <module>
+    image momSprite = im.Scale("sana")
+TypeError: __init__() missing 2 required positional arguments: 'width' and 'height'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 19, in script
+    image momSprite = im.Scale("sana")
+  File "/Users/abhishekambastha/Documents/renpy-8.3.2-sdk/renpy/ast.py", line 920, in execute
+    img = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "/Users/abhishekambastha/Documents/renpy-8.3.2-sdk/renpy/python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 19, in <module>
+    image momSprite = im.Scale("sana")
+TypeError: __init__() missing 2 required positional arguments: 'width' and 'height'
+
+macOS-12.5-arm64-arm-64bit arm64
+Ren'Py 8.3.2.24090902
+chess_myplayer 1.0
+Thu Dec 12 12:55:01 2024
