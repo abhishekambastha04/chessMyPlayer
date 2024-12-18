@@ -13,10 +13,10 @@ Chess Strategy Mechanics: Answer challenging chess theory questions to influence
 Branching Dialogues: Use Sana’s "powers" to make critical decisions.
 Character-Driven Drama: Explore Sana's relationships with her family, her friend Carter, and the chess community.  
 Multiple Endings: Determine Sana's legacy based on your decisions.  
-_Gameplay Overview_
+_Gameplay Overview_  
 Genre: Visual Novel  
 Engine: Ren'Py  
-Theme: Chess, Determination, and Relationships  
+Theme: Chess, Determination, and Relationships    
 The game starts with Sana's humble beginnings in local tournaments and follows her as she builds her reputation, faces off against world champions, and navigates her personal relationships. Along the way, players will make critical choices that test both their chess knowledge and Sana’s resolve.
 
 **Installation**
